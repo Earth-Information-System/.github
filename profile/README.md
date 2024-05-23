@@ -2,7 +2,7 @@
 
 The EIS synthesizes discipline-specific understanding into Earth system understanding, with relevance to applications and enabled by emerging cyberinfrastructure. The synthesized system understanding is curated by the core EIS team but driven by community input and feedback.
 
-An overview of EIS, with more information on project goals, can be found here: https://www.earthdata.nasa.gov/dashboard/eis/about.
+An overview of EIS, with more information on project goals, can be found here: [https://www.earthdata.nasa.gov/dashboard/eis/about](https://www.earthdata.nasa.gov/eis).
 
 This GitHub organization serves as the hub for community input into EIS. This organization will house repositories for:
 1. Interactive science analyses (e.g., Jupyter notebooks)
